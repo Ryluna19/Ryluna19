@@ -20,7 +20,8 @@ Currently seeking internship and junior developer opportunities.
 
 ## Main technologies
 
-React · JavaScript · Node.js · Express · PostgreSQL · Python · Flask · Git
+JavaScript · React · Node.js · Express · PostgreSQL · Python · Flask · Git
+
 
 ## Featured projects
 
@@ -44,3 +45,4 @@ React · JavaScript · Node.js · Express · PostgreSQL · Python · Flask · Gi
     alt="Most used languages on GitHub"
   />
 </p>
+
