@@ -20,7 +20,20 @@ Currently seeking internship and junior developer opportunities.
 
 ## Main technologies
 
-JavaScript · React · Node.js · Express · PostgreSQL · Python · Flask · Git
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
+</p>
+
 
 
 ## Featured projects
@@ -37,12 +50,4 @@ JavaScript · React · Node.js · Express · PostgreSQL · Python · Flask · Gi
 * [Music Playlist Manager](https://github.com/Ryluna19/PMusicPlaylist)
   Playlist manager with CRUD operations, search, filtering, an admin panel, and a custom audio player.
 
-## Languages used in my public repositories
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryluna19&layout=compact&langs_count=6&hide_border=true&theme=transparent"
-    alt="Most used languages on GitHub"
-  />
-</p>
 
