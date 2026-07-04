@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ryan Santos 👋</h1>
 
 <p align="center">
-  Junior Full-Stack Developer focused on building practical, reliable web applications.
+  Full-Stack Developer focused on building practical, reliable web applications.
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## About me
 
-I build web applications focused on practical solutions, clean user experiences, and continuous learning.
+I build full-stack web applications focused on real user flows, clean interfaces, and reliable backend foundations.
 
-My main interests are full-stack development, REST APIs, authentication, relational databases, automated testing, and backend reliability.
+My main stack is JavaScript, TypeScript, React, Node.js, Express, and relational databases. I am especially interested in REST APIs, authentication, data modeling, automated testing, and backend organization.
 
-I enjoy turning ideas into complete applications with responsive interfaces, structured APIs, secure authentication, and organized databases.
+I also have experience with Python, Flask, PHP, and MySQL through academic and personal projects.
 
 ## Main technologies
 
@@ -30,23 +30,33 @@ I enjoy turning ideas into complete applications with responsive interfaces, str
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=FFFFFF" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=FFFFFF" alt="Flask" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=FFFFFF" alt="PHP" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=FFFFFF" alt="Vitest" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" alt="Git" />
 </p>
 
 ## Featured projects
+
+### 🍔 [Farofa do Areias](https://github.com/Ryluna19/PFarofa-do-Areias)
+
+Full-stack food ordering application with separate customer and administrator flows.
+
+* JWT authentication and protected administrative routes
+* Customer order creation, tracking, and order history
+* Server-side price calculation and validation
+* Order status workflow with controlled transitions
+* PostgreSQL database with structured order records
+* Automated tests and GitHub Actions CI workflow
+
+`React` · `TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `JWT` · `Vitest`
 
 ### 📋 [Job Application Tracker](https://github.com/Ryluna19/PJobApplicationTracker)
 
@@ -65,14 +75,15 @@ Full-stack application for managing job applications throughout the hiring proce
 
 ### ☕ [Café Curator](https://github.com/Ryluna19/PCafe_Proximos)
 
-Web application that uses user location to suggest nearby cafés.
+Web application that uses the user's location to suggest nearby cafés.
 
 * Geolocation-based search
-* Responsive result cards
-* Favorites saved through LocalStorage
-* Interface focused on quick and practical use
+* Nearby café results rendered dynamically
+* Favorites, notes, and statuses saved with LocalStorage
+* Filters and sorting for saved locations
+* Responsive interface focused on quick and practical use
 
-`JavaScript` · `HTML` · `CSS` · `Geolocation API`
+`JavaScript` · `HTML` · `CSS` · `Geolocation API` · `LocalStorage`
 
 ### 📚 [Flask Library System](https://github.com/Ryluna19/PFlask-Library-System)
 
@@ -98,8 +109,7 @@ Playlist manager with CRUD operations and a custom music-focused interface.
 
 ## Currently improving
 
-* TypeScript
+* TypeScript and backend architecture
 * Automated testing practices
-* API architecture and backend organization
 * SQL and relational database design
 * Java and Spring Boot fundamentals
