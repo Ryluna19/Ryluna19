@@ -8,6 +8,16 @@ ADS graduate currently studying Information Systems, focused on building web app
 
 I'm currently looking for my first professional opportunity in tech.
 
+<p>
+  <a href="https://ryluna19.github.io/PProfile/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ryan-bulhoes-santos-560b25225/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
 </div>
 
 ---
